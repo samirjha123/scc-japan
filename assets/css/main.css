@@ -1571,9 +1571,9 @@ input, select, textarea {
 
 		table th {
 			text-align: left;
-			padding: 0.5em 1em 0.5em 1em;
-			font-weight: 800;
-			margin: 0 0 1em 0;
+			padding: 0 0 0 0;
+			font-weight: 200;
+			margin: 0 0 0 0;
 		}
 
 		table thead {
